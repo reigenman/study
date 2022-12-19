@@ -1,0 +1,4 @@
+aioconsole==0.5.1
+docstring-parser==0.15
+simple-parsing==0.0.21.post1
+typing_extensions==4.4.0
